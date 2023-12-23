@@ -1,1 +1,2 @@
 一个用来学习git的仓库
+.md表示是MARKDOWN语言
